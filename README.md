@@ -38,4 +38,4 @@ Column definitions were gathered from [http://www.bom.gov.au/climate/dwo/IDCJDW0
 
 
 This project is a part of IBM Machine Learning with Python course on Coursera:
-[https://www.coursera.org/learn/machine-learning-with-python]
+https://www.coursera.org/learn/machine-learning-with-python
